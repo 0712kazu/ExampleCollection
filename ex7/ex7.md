@@ -15,7 +15,7 @@ item,price
 みかん,300  
 りんご,70  
 
-- print  
+- output.csv
 
 item,total,count,average  
 りんご,300,2,150  
